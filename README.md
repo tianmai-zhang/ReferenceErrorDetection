@@ -11,14 +11,14 @@ Given a statement $s$ and a reference article $r$ that the statement cites, a mo
 
 ## Dataset description
 
-In this work, all statements to be verified and their references are from scientific journals. For data characteristics and data preparation details, please refer to the paper.
+In this work, all statements to be verified and their references are taken from scientific journals. For data characteristics and data preparation details, please refer to the paper.
 
 Each row in the dataset provides a statement-reference pair, and has the following columns:
-- The statement to be verified, with citation indices if applicable.
-- The label as described above.
+- The statement to be verified, with the citation index in the citing article if applicable.
+- The label, as described above.
 - Information about the citing article: DOI and title.
 - Information about the reference article: DOI, title, and abstract.
-- Other information: the original source of the pair, the scientific domain of the citing article, and a short explanation for the label.
+- Other information: the original source of the pair, the scientific domain of the citing article, and a short explanation of the label.
 
 ## Instructions
 
