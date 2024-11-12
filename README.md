@@ -1,6 +1,6 @@
 # ReferenceErrorDetection
 
-Welcome to the data repository for "Detecting Reference Errors in Scientific Literature with Large Language Models".
+Welcome to the data repository for ["Detecting Reference Errors in Scientific Literature with Large Language Models"](https://arxiv.org/abs/2411.06101).
 
 ## Task definition
 
@@ -28,6 +28,16 @@ You can choose whatever pipeline you prefer to process the PDF files. In our wor
 
 ## License
 
-If you use our dataset or methods in your research, please cite our paper.
+If you use our dataset or methods in your research, please cite our paper as follows:
+
+```bibtex
+@article{Zhang24ReferenceErrorDetection,
+      title={Detecting Reference Errors in Scientific Literature with Large Language Models},
+      author={Tianmai M. Zhang and Neil F. Abernethy},
+      year={2024},
+      journal={arXiv},
+      url={https://arxiv.org/abs/2411.06101},
+}
+```
 
 The data in this repository is licensed under the [Open Data Commons Attribution License (ODC-By) v1.0](https://opendatacommons.org/licenses/by/1-0/). You are free to share, modify, and use the data, provided that you give appropriate attribution.
